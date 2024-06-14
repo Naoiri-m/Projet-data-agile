@@ -16,7 +16,7 @@ En tant que consultant *Data Analyst* nous effectuons une prestation en régie a
 
 ## &#128295; Outils utilisés
 * **Pandas**, **Matplotlib** et **Seaborn** : préparation et analyse descriptive des données.
-* **SciPy**, **scikit-learn** et **statsmodels**  : mise en de l'algorithme.
+* **SciPy**, **scikit-learn** et **statsmodels**  : mise en place de l'algorithme.
 * **Joblib** et **Pathlib** : pour l'exportation de l'algorithme.
 * **Dash Plotly** : pour le déploiement de l'algorithme sur une application en ligne.
 
